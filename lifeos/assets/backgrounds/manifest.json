@@ -1,0 +1,126 @@
+{
+  "license": "Unsplash License",
+  "license_url": "https://unsplash.com/license",
+  "license_checked": "2026-10-29",
+  "usage": "Bundled, transformed application backgrounds. Not sold as stock images or used to replicate a photo service.",
+  "processing": "EXIF orientation; grayscale; 1600x1000 cover crop; 1% autocontrast; identical low-key tone curve (8..204); WebP quality 84. Runtime dark overlay is separate.",
+  "photos": {
+    "dashboard": {
+      "subject": "Minimalist productivity workspace",
+      "source_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=1800&q=88&fm=jpg",
+      "source_id": "photo-1497215728101-856f4ea42174",
+      "original_sha256": "3461cfffad6dabe76589d53805d29908e91f0f967db7f5aa6002cbbb10e6dcb3",
+      "processed_sha256": "9f33370a292eb6283145748a0749c606b6503e54edfbc164f78a73244a523c5f",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "original": "originals/dashboard.jpg",
+      "asset": "dashboard.webp"
+    },
+    "dsa": {
+      "subject": "Developer desk and code on a monitor",
+      "source_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1800&q=88&fm=jpg",
+      "source_id": "photo-1555066931-4365d14bab8c",
+      "original_sha256": "ae3e6953857fbeea205a487f79c70e3c6e81965e438519f9d8c16a99672fa6c9",
+      "processed_sha256": "16e2aaf32720cf702e892d964ff7248f20c68c32f2c6fed554e9a91c0add29db",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "original": "originals/dsa.jpg",
+      "asset": "dsa.webp"
+    },
+    "learning": {
+      "subject": "Books, notebook and laptop study workspace",
+      "source_url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=1800&q=88&fm=jpg",
+      "source_id": "photo-1456513080510-7bf3a84b82f8",
+      "original_sha256": "071701a52798232712cf8c7d1f69f3bbbf3d0f694116e5f21eb20c3081c6229d",
+      "processed_sha256": "4ee835aba0292bb5d22316082f5b7f5237ed71b2cdcf37b62c5e81f675f54f64",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "original": "originals/learning.jpg",
+      "asset": "learning.webp"
+    },
+    "research": {
+      "subject": "Research notes and computer workspace for NLP / ML",
+      "source_url": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1800&q=88&fm=jpg",
+      "source_id": "photo-1434030216411-0b793f4b4173",
+      "original_sha256": "a45ee56493458649836ebb29a9a1d9f49184c5ec0760a6585cbd61440b872997",
+      "processed_sha256": "722fc6e85260e71db9082bbe6ca1d86f502d7d7880f9e19f5389dc5a1fad8bad",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "original": "originals/research.jpg",
+      "asset": "research.webp"
+    },
+    "workout": {
+      "subject": "Gym equipment and training space",
+      "source_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1800&q=88&fm=jpg",
+      "source_id": "photo-1534438327276-14e5300c3a48",
+      "original_sha256": "d98508b8cf02bb0e758fd96c3291031c8250f50661bf16f3330a7dcfedc6154c",
+      "processed_sha256": "aacff029bccf872c2bf19c91e3caf62f12abbe5c7e5d48e13287a0c5d892ccec",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "original": "originals/workout.jpg",
+      "asset": "workout.webp"
+    },
+    "nutrition": {
+      "subject": "Balanced meal with vegetables and healthy food",
+      "source_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1800&q=88&fm=jpg",
+      "source_id": "photo-1512621776951-a57141f2eefd",
+      "original_sha256": "2dac32b30b7dfa79874e491fff0045a9ec67d867c69ebdaee2bba1280328330f",
+      "processed_sha256": "d8e72c0a632989202f96df007ed136b6c508d5d9e2141b070e155a8b2fbe6e46",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "original": "originals/nutrition.jpg",
+      "asset": "nutrition.webp"
+    },
+    "planner": {
+      "subject": "Calendar, notebook and pen",
+      "source_url": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?auto=format&fit=crop&w=1800&q=88&fm=jpg",
+      "source_id": "photo-1506784365847-bbad939e9335",
+      "original_sha256": "869ced4424ac33896af80c69f98e3be0f14356830503d266c962e7c87ac614ce",
+      "processed_sha256": "cdf772e42c58b335496d845bb2daaa3006b997115c7558a5193c13b346bae59e",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "original": "originals/planner.jpg",
+      "asset": "planner.webp"
+    },
+    "analytics": {
+      "subject": "Computer display with charts and data",
+      "source_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1800&q=88&fm=jpg",
+      "source_id": "photo-1551288049-bebda4e38f71",
+      "original_sha256": "2a25dbd4b62653cad68abeef9d150bbbd57dd374889d8af2b206521b4b05d65f",
+      "processed_sha256": "11a2c30c6611ced87a969fda5c948773facb1c5cd6e5c6e1cbb8b23336c56f1e",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "original": "originals/analytics.jpg",
+      "asset": "analytics.webp"
+    },
+    "settings": {
+      "subject": "Subtle abstract material texture",
+      "source_url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&w=1800&q=88&fm=jpg",
+      "source_id": "photo-1550684848-fac1c5b4e853",
+      "original_sha256": "7c2f7625245d921472d7b2af454449f5836f0645e8f471b4581989ea39521726",
+      "processed_sha256": "7debeb05b2ece428d9dab5db15514fc1e52c48578e739d24a90f2f3ba999e4eb",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "original": "originals/settings.jpg",
+      "asset": "settings.webp"
+    }
+  }
+}

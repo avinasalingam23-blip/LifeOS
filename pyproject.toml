@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lifeos-desktop"
+version = "1.0.0"
+description = "Local personal life management for Windows"
+requires-python = ">=3.11"
+dependencies = ["customtkinter==6.0.0", "matplotlib==3.11.2", "psutil==7.2.2", "Pygments==2.21.0"]
+
+[tool.setuptools.packages.find]
+include = ["lifeos*"]
+
+[tool.setuptools.package-data]
+lifeos = ["*.sql", "assets/*", "assets/icons/*", "assets/backgrounds/*.webp", "assets/backgrounds/*.json", "assets/backgrounds/*.txt"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,4 @@
+Photography source: Unsplash
+License: https://unsplash.com/license
+
+The Unsplash License permits downloading, modifying and using these photographs in this application, including local redistribution as application assets. Photos are not offered as an independent stock-photo collection. Source identifiers, download URLs and integrity hashes are recorded in manifest.json. Unmodified source downloads are preserved under originals/ for future regrading. No photo downloads occur at runtime.
